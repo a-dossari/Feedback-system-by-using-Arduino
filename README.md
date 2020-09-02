@@ -10,8 +10,6 @@ There is a video of a practical application of what I did, which is (see the vid
 " target="_blank"><img src="http://img.youtube.com/vi/P15V3UwmXnc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/P15V3UwmXnc/0.jpg)](http://www.youtube.com/watch?v=P15V3UwmXnc)
-
 To build the circuit, I used:
 
 - Arduino board.
